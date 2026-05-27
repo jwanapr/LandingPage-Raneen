@@ -1,0 +1,51 @@
+<svg width="184" height="32" viewBox="0 0 184 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.75" y="0.75" width="30.5" height="30.5" rx="15.25" fill="#7B3FF2"/>
+<rect x="0.75" y="0.75" width="30.5" height="30.5" rx="15.25" stroke="#7B3FF2" stroke-width="1.5"/>
+<path d="M8 15.9999V12.4399C8 8.01989 11.13 6.2099 14.96 8.4199L18.05 10.1999L21.14 11.9799C24.97 14.1899 24.97 17.8099 21.14 20.0199L18.05 21.7999L14.96 23.5799C11.13 25.7899 8 23.9799 8 19.5599V15.9999Z" fill="#F2ECFE"/>
+<line x1="40.5" y1="12.5" x2="40.5" y2="19.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="42.5" y1="12.5" x2="42.5" y2="19.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="44.5" y1="11.5" x2="44.5" y2="20.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="46.5" y1="11.5" x2="46.5" y2="20.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="48.5" y1="10.5" x2="48.5" y2="21.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="50.5" y1="10.5" x2="50.5" y2="21.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="52.5" y1="9.5" x2="52.5" y2="22.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="54.5" y1="9.5" x2="54.5" y2="22.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="56.5" y1="8.5" x2="56.5" y2="23.5" stroke="#9160F4" stroke-linecap="round"/>
+<line x1="58.5" y1="8.5" x2="58.5" y2="23.5" stroke="#7E53D6" stroke-linecap="round"/>
+<line x1="60.5" y1="7.5" x2="60.5" y2="24.5" stroke="#7E53D6" stroke-linecap="round"/>
+<line x1="62.5" y1="7.5" x2="62.5" y2="24.5" stroke="#7E53D6" stroke-linecap="round"/>
+<line x1="64.5" y1="7.5" x2="64.5" y2="24.5" stroke="#7E53D6" stroke-linecap="round"/>
+<line x1="66.5" y1="6.5" x2="66.5" y2="25.5" stroke="#7E53D6" stroke-linecap="round"/>
+<line x1="68.5" y1="6.5" x2="68.5" y2="25.5" stroke="#7E53D6" stroke-linecap="round"/>
+<line x1="70.5" y1="8.5" x2="70.5" y2="23.5" stroke="#7E53D6" stroke-linecap="round"/>
+<line x1="72.5" y1="9.5" x2="72.5" y2="22.5" stroke="#7B4DDA" stroke-linecap="round"/>
+<line x1="74.5" y1="9.5" x2="74.5" y2="22.5" stroke="#7B4DDA" stroke-linecap="round"/>
+<line x1="76.5" y1="9.5" x2="76.5" y2="22.5" stroke="#7B4DDA" stroke-linecap="round"/>
+<line x1="78.5" y1="12.5" x2="78.5" y2="19.5" stroke="#7B4DDA" stroke-linecap="round"/>
+<line x1="80.5" y1="12.5" x2="80.5" y2="19.5" stroke="#7B4DDA" stroke-linecap="round"/>
+<line x1="82.5" y1="11.5" x2="82.5" y2="20.5" stroke="#7A55C6" stroke-linecap="round"/>
+<line x1="84.5" y1="9.5" x2="84.5" y2="22.5" stroke="#7A55C6" stroke-linecap="round"/>
+<line x1="86.5" y1="9.5" x2="86.5" y2="22.5" stroke="#5C3D9A" stroke-linecap="round"/>
+<line x1="88.5" y1="7.5" x2="88.5" y2="24.5" stroke="#5C3D9A" stroke-linecap="round"/>
+<line x1="90.5" y1="7.5" x2="90.5" y2="24.5" stroke="#5C3D9A" stroke-linecap="round"/>
+<line x1="92.5" y1="6" x2="92.5" y2="26" stroke="#52348F" stroke-linecap="round"/>
+<line x1="94.5" y1="6" x2="94.5" y2="26" stroke="#52348F" stroke-linecap="round"/>
+<line x1="96.5" y1="8" x2="96.5" y2="24" stroke="#52348F" stroke-linecap="round"/>
+<line x1="98.5" y1="8" x2="98.5" y2="24" stroke="#52348F" stroke-linecap="round"/>
+<line x1="100.5" y1="8" x2="100.5" y2="24" stroke="#52348F" stroke-linecap="round"/>
+<line x1="102.5" y1="11.5" x2="102.5" y2="20.5" stroke="#52348F" stroke-linecap="round"/>
+<line x1="104.5" y1="13.5" x2="104.5" y2="18.5" stroke="#52348F" stroke-linecap="round"/>
+<line x1="106.5" y1="13.5" x2="106.5" y2="18.5" stroke="#4B2694" stroke-linecap="round"/>
+<line x1="108.5" y1="13.5" x2="108.5" y2="18.5" stroke="#4B2694" stroke-linecap="round"/>
+<line x1="110.5" y1="14.5" x2="110.5" y2="17.5" stroke="#562CA9" stroke-linecap="round"/>
+<line x1="112.5" y1="14.5" x2="112.5" y2="17.5" stroke="#562CA9" stroke-linecap="round"/>
+<line x1="114.5" y1="14.5" x2="114.5" y2="17.5" stroke="#291355" stroke-linecap="round"/>
+<line x1="116.5" y1="15" x2="116.5" y2="17" stroke="#291355" stroke-linecap="round"/>
+<line x1="118.5" y1="15" x2="118.5" y2="17" stroke="#291355" stroke-linecap="round"/>
+<line x1="120.5" y1="15.5" x2="120.5" y2="16.5" stroke="#141422" stroke-linecap="round"/>
+<line x1="122.5" y1="15.5" x2="122.5" y2="16.5" stroke="#141422" stroke-linecap="round"/>
+<line x1="124.5" y1="15.5" x2="124.5" y2="16.5" stroke="#141422" stroke-linecap="round"/>
+<line x1="126.5" y1="15.5" x2="126.5" y2="16.5" stroke="#141422" stroke-linecap="round"/>
+<line x1="128.5" y1="15.5" x2="128.5" y2="16.5" stroke="#141422" stroke-linecap="round"/>
+<path d="M155.526 17.4747C155.526 20.056 154.566 23.2133 151.729 23.2133C148.913 23.2133 147.932 20.0347 147.932 17.496C147.932 14.872 148.956 11.7573 151.75 11.7573C154.566 11.7573 155.526 14.9147 155.526 17.4747ZM149.98 17.4533C149.98 20.056 150.342 22.936 151.729 22.936C153.137 22.936 153.5 20.056 153.5 17.4747C153.5 14.8933 153.137 12.0347 151.708 12.0347C150.321 12.0347 149.98 14.8933 149.98 17.4533ZM160.151 22.1893L159.084 23.2987L157.847 22.0613L159.084 20.824L160.151 21.8907C160.257 21.9973 160.257 22.104 160.151 22.1893ZM160.151 17.5173L159.084 18.6267L157.847 17.3893L159.084 16.152L160.151 17.2187C160.257 17.3253 160.257 17.432 160.151 17.5173ZM165.1 22.9787H163.137V12.632L165.1 11.672V22.9787ZM173.183 19.3093C173.183 21.2933 171.817 23.2133 169.193 23.2133C168.233 23.2133 167.06 22.9573 166.505 22.5307L166.932 21.7413C167.337 22.104 168.255 22.9147 169.151 22.9147C170.516 22.9147 171.177 21.08 171.177 19.3947C171.177 17.56 170.409 16.4293 169.151 16.4293C168.553 16.4293 167.764 16.6213 166.847 17.0267L167.551 11.544H172.692L172.777 11.7147L172.265 13.1013H167.764L167.231 16.5573C167.892 16.3227 168.745 16.152 169.62 16.152C171.903 16.152 173.183 17.3893 173.183 19.3093Z" fill="#E8E8EA"/>
+</svg>
