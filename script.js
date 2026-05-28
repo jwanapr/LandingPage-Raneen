@@ -620,3 +620,34 @@ document.addEventListener("DOMContentLoaded", () => {
   updateSlider();
 
 });
+
+
+
+
+
+
+// =========================
+// Scroll Animation (Intersection Observer)
+// =========================
+
+const elements = document.querySelectorAll(
+  ".about, .services, .voice, .contantAi, .Ourwork, .choose, .customer, .footer, .card1, .card, .card-content, .icon-txt"
+);
+
+const observer = new IntersectionObserver(
+  (entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add("show");
+      }
+    });
+  },
+  {
+    threshold: 0.15,
+  }
+);
+
+elements.forEach((el) => {
+  el.classList.add("animate");
+  observer.observe(el);
+});
