@@ -20,7 +20,7 @@
 
 body {
     background-color: #141422;
-    font-family: 'Fatimah';
+     font-family: 'Fatimah' !important;
     
     font-weight: 500;
     -webkit-font-smoothing: antialiased; /*تحسين عرض الخط في Chrome/Safari*/
