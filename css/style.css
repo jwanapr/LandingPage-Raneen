@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: 'Fatimah';
- src: url('../font/FatimahArabicITF-Bold.otf') format('opentype');
+  src: url('../font/FatimahArabicITF-Bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
 }
