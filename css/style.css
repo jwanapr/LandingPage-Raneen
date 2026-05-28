@@ -20,7 +20,7 @@
 
 body {
     background-color: #141422;
-     font-family: 'Fatimah' !important;
+    font-family: 'Fatimah';
     
     font-weight: 500;
     -webkit-font-smoothing: antialiased; /*تحسين عرض الخط في Chrome/Safari*/
@@ -37,6 +37,8 @@ a {
 
 /* header */
 /* headerhero */
+
+
 section.heroHeader {
   background-image:
     linear-gradient(#14142200, #141422),
@@ -45,8 +47,6 @@ section.heroHeader {
   background-size: cover;
   background-position: center;
 }
-
-
 
 /* الطبقة السودا */
 /* section.heroHeader::before {
@@ -328,8 +328,30 @@ button.navbar-toggler {
 /* mobile fix spacing */
 @media (max-width: 576px) {
   .card1 {
-    padding: 20px;
+    padding: 30px;
+    max-width: 371px;
   }
+}
+@media (max-width: 768px) {
+
+  .services .row {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: relative;
+  }
+
+  .services .col-12 {
+    position: sticky;
+    top: 80px; /* مهم عشان التكديس */
+  }
+
+  .card1 {
+    transition: transform 0.4s ease, opacity 0.4s ease;
+    transform-origin: center top;
+    background: linear-gradient(157deg, #000000 -1%, #0f0945 30%, #783fd3 89%, #ca85f8 130%);
+  }
+
 }
 /* services section */
 
@@ -554,6 +576,7 @@ span.tap{
     height: 193px;
     text-align: center;
 }
+
 .contantAi .row {
     display: flex;
     justify-content: space-around;
@@ -1080,3 +1103,78 @@ i.fa.fa-chevron-left {
   }
 }
 /* footer */
+
+
+
+/* =========================
+   GLOBAL ANIMATION SYSTEM
+========================= */
+
+/* الحالة الابتدائية لكل العناصر */
+.animate {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: all 0.8s ease;
+}
+
+/* لما يظهر العنصر */
+.animate.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* تأخير تدريجي (stagger) */
+.delay-1 { transition-delay: 0.1s; }
+.delay-2 { transition-delay: 0.2s; }
+.delay-3 { transition-delay: 0.3s; }
+.delay-4 { transition-delay: 0.4s; }
+
+/* حركة خفيفة للـ hero */
+.hero h1 {
+  animation: fadeDown 1s ease forwards;
+}
+
+.hero p {
+  animation: fadeDown 1.2s ease forwards;
+}
+
+.hero .btn-connect {
+  animation: fadeUp 1.4s ease forwards;
+}
+
+@keyframes fadeDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* كارد hover animation أقوى */
+.card1,
+.voice .card,
+.Ourwork .card-content {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.card1:hover,
+.voice .card:hover,
+.Ourwork .card-content:hover {
+  transform: translateY(-10px) scale(1.03);
+}
+
+
